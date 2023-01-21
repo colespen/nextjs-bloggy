@@ -6,33 +6,32 @@ body {
     Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+html {
+  height: 100vh;
+  background-image: url("/images/v935-aum-16.jpg");
 }
 
 * {
   box-sizing: border-box;
 }
 
+#__next {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: #146aff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 6px;
+  text-decoration-color: #146aff75;
+}
+
 img {
   max-width: 100%;
-  height: auto;
-}
-
-h1,
-h2,
-p,
-ul {
-  margin: 0;
-}
-
-ul {
-  padding: 0;
-  list-style: none;
-}
-
-button {
-  padding: 0.5rem 1rem;
-  font-weight: bold;
+  display: block;
 }
