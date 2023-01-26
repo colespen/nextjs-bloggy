@@ -6,6 +6,6 @@
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![landing](/docs/blog_landing.png?raw=true "blog landing")
+![speed test](/docs/rendering_article_md.png?raw=true "speed test")
+![article](/docs/speed_test.png?raw=true "rendering article")
